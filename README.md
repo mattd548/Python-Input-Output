@@ -1,2 +1,2 @@
 # Python-Input-Output
-learning python 
+learning python by doing exercises that use input and output
